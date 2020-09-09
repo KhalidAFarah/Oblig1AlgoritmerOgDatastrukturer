@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a76a6c5f-d058-4d86-afd9-9f150df6ac95" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1gocRGrL6TEppxdcTVn9lmJZYSS" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.Oblig1Test">
+    <configuration name="Oblig1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oslomet.cs.algdat.Oblig1.Oblig1" />
+      <module name="Oblig1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oslomet.cs.algdat.Oblig1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oblig1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oslomet.cs.algdat.Oblig1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oslomet.cs.algdat.Oblig1" />
+      <option name="MAIN_CLASS_NAME" value="oslomet.cs.algdat.Oblig1.Oblig1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oblig1Test.oppgave4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oslomet.cs.algdat.Oblig1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oslomet.cs.algdat.Oblig1" />
+      <option name="MAIN_CLASS_NAME" value="oslomet.cs.algdat.Oblig1.Oblig1Test" />
+      <option name="METHOD_NAME" value="oppgave4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oblig1Test.oppgave6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oslomet.cs.algdat.Oblig1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oslomet.cs.algdat.Oblig1" />
+      <option name="MAIN_CLASS_NAME" value="oslomet.cs.algdat.Oblig1.Oblig1Test" />
+      <option name="METHOD_NAME" value="oppgave6" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oblig1UnitTest.gjennomsnittligeOmbyttninger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oblig1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oslomet.cs.algdat.Oblig1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="oslomet.cs.algdat.Oblig1" />
+      <option name="MAIN_CLASS_NAME" value="oslomet.cs.algdat.Oblig1.Oblig1UnitTest" />
+      <option name="METHOD_NAME" value="gjennomsnittligeOmbyttninger" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Oblig1Test" />
+        <item itemvalue="Application.Oblig1" />
+        <item itemvalue="JUnit.Oblig1Test.oppgave6" />
+        <item itemvalue="JUnit.Oblig1UnitTest.gjennomsnittligeOmbyttninger" />
+        <item itemvalue="JUnit.Oblig1Test.oppgave4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a76a6c5f-d058-4d86-afd9-9f150df6ac95" name="Default Changelist" comment="" />
+      <created>1598784375497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598784375497</updated>
+      <workItem from="1598784377999" duration="2300000" />
+      <workItem from="1598857031120" duration="10171000" />
+      <workItem from="1598877641011" duration="2719000" />
+      <workItem from="1598944376609" duration="6263000" />
+      <workItem from="1599041276629" duration="10121000" />
+      <workItem from="1599120860199" duration="12863000" />
+      <workItem from="1599148518410" duration="3902000" />
+      <workItem from="1599206264056" duration="16245000" />
+      <workItem from="1599286584596" duration="3784000" />
+      <workItem from="1599317890343" duration="391000" />
+      <workItem from="1599467814900" duration="277000" />
+      <workItem from="1599469226830" duration="32000" />
+      <workItem from="1599547563868" duration="11558000" />
+      <workItem from="1599652823574" duration="2046000" />
+      <workItem from="1599654946040" duration="850000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/no/oslomet/cs/algdat/Oblig1/Oblig1Test.java</url>
+          <line>442</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
