@@ -2,7 +2,7 @@
 
 Denne oppgaven er en innlevering i Algoritmer og Datastrukturer. 
 Oppgaven er levert av følgende studenter:
-* Navn Khalid Ahmed Farah, s341843, s341843@oslomet.no
+* Khalid Ahmed Farah, s341843, s341843@oslomet.no
 
 # Arbeidsfordeling
 jeg var ikke på noen gruppe og gjorde da oppgave 1,2,3,4,5,7. jeg hadde litt ekstra tid og begynte da med oppgave 6, men
